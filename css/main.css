@@ -18,7 +18,7 @@
 .btn-deco a {text-decoration: none;background:#fff;padding: 10px 22px;border-radius: 30px;font-size: 1rem; color: #333333;border:1px solid #dfdfdf;}
 .btn-deco a:hover{background:#333333;color:#ffcd48; }
 .mt-n1{margin-top:-60px;}
-.footer{background:url(../Images/footer.png)no-repeat;background-size: cover;}
+.footer{background:url(../images/footer.png)no-repeat;background-size: cover;}
 .footer i{padding:7px;border:1px solid #dfdfdf;border-radius:100%;}
 .footer i:hover{background:#ffcd48; }
 .active{background:#ffcd48;}
